@@ -1,2 +1,2 @@
 # drf_shoestore_frontend
-https://github.com/HyperionCG/drf_shoestore
+Backend: https://github.com/HyperionCG/drf_shoestore
